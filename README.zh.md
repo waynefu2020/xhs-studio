@@ -106,3 +106,8 @@ python3 scripts/login.py
 - 标题限制：20 个中文字符
 - 图片限制：单篇最多 18 张
 - 定时发布范围：1 小时 ～ 14 天后
+
+## 鸣谢
+
+- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) — 本 Skill 底层依赖的小红书 MCP 服务，由 [@xpzouying](https://github.com/xpzouying) 开发。
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) — 本 Skill 遵循的 Claude Code Skill 规范与框架，由 [@JimLiu](https://github.com/JimLiu) 开发。

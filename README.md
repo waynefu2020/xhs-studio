@@ -92,3 +92,8 @@ After installing this skill, trigger it with natural language:
 - Title limit: 20 Chinese characters
 - Image limit: 18 per post
 - Schedule range: 1 hour – 14 days from now
+
+## Acknowledgements
+
+- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) — The MCP server that powers Xiaohongshu automation in this skill. Built by [@xpzouying](https://github.com/xpzouying).
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) — The Claude Code Skill framework and conventions that this skill follows. Built by [@JimLiu](https://github.com/JimLiu).
